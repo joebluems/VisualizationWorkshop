@@ -5,7 +5,7 @@ Reading Data into Tableau and Creating Worksheet
 Start R, R studio, etc.<br>
 paste commands from <b>stocks.R</b> into R command line<br>
 make any changes to the sampling rates or file<br>
-writes file to <b>abc.csv</b>
+writes file to <b>abc.csv</b><br>
 Note: this produces 500 orders (with an origination month, trader identity and industry) and generates a percent change after 1 minute, 1 week, etc.<br>
 
 ## Connect to data
@@ -62,7 +62,12 @@ Edit the Index X-axis: <br>
 * Under <b>General</b> tab, delete Title<br>
 * Under <b>Tick Marks</b> tab, Select <b>None</b> for Major & Minor <br>
 
-
+## Add a Filter and wrap it up <br>
+Drag the <b>Months</b> measure to the Filter Window<br>
+Select <b>Range of Values</b>, click OK<br>
+Right-click on Sheet to rename sheet to "ABC Investments" or similar<br>
+Drag the <b>Reference</b> and <b>Months</b> windows over to the left side and hide any window you're not using<br>
+Save it, <b>Export</b> as an image, explore the points, adjust the Months and see how data changes, filter on the fly, etc.<br>
 
 
 
