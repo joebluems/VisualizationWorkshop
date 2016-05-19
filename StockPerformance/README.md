@@ -27,6 +27,44 @@ Custom Sort <b>Time Since Trade</b> Dimension: <br>
 * Click OK
 
 ## Add flair to the worksheet
+Drag the edges of the window to fill up the worksheet <br>
+Drag the <b>Volume</b> measure to the <b>Size</b> mark<br>
+Drag the <b>Trader</b> dimension to the <b>Color</b> mark<br>
+In the Marks window, change "Circle" to <b>Shape</b> in pulldown menu - "Shape" should appear as a mark<br>
+Drag the <b>Industy</b> dimension to the <b>Shape</b> mark<br>
+Add a reference line at 0.0: <br>
+* Right click on y-axis (Change)<br>
+* Select Entire Table<br>
+* Under Line: For Value, select Create New Parameter<br>
+* Change Value to 0
+* Format the Line (e.g. thickness, color, etc.) & click OK<br>
+* Pull down menu on Parameter window, select <b>Edit Parameter</b> and change Name to read "Reference"<br>
+
+## Add finishing touches
+Adjust the Y-axis: <br>
+* Right-click on axis, Select Format and use format change window to adjust size, font, color, etc.<br>
+* Use Scale > Numbers in format menu to change units to Percentage with 0 decimal places <br>
+
+Adjust the <b>Time Since Trade</b> X-axis (increase size to match Y-axis) and for the time labels<br>
+Adjust size of points: <br>
+* Under <b>Volume</b> pane, click to display menu, select <b>Edit Sizes</b><br>
+* Drag the pointer in <b>Mark Size Range</b> to make the points slightly larger, click OK<br>
+
+Fill in the shapes: <br>
+* Under <b>Industry</b> pane, click to display menu, select <b>Edit Shape</b><br>
+* Under <b>Select Shape Pallete</b>, change Default to Filled<br>
+* For the circle and the square labels, select one under <b>Select Data Item</b> then select the corresponding filled figure in the Palette<br>
+* Once all have been changed, click OK<br>
+
+Edit the Index X-axis: <br>
+* This is superfluous information<br>
+* Right-click on axis, select <b>Edit Axis</b><br>
+* Under <b>General</b> tab, delete Title<br>
+* Under <b>Tick Marks</b> tab, Select <b>None</b> for Major & Minor <br>
+
+
+
+
 
 
 
