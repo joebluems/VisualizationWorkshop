@@ -16,3 +16,5 @@ There is a <b>ton</b> of professional demos produced by Tableau<br>
 * Graphs (social networks, etc.)<br>
 * Real-time dashboards<br>
 * Machine-learning friendly graphs<br>
+** The R programming language is a nice complement to displaying machine-learning
+** There is a quick-start guide by Microsoft attached to this repo's top level
