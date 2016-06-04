@@ -13,8 +13,12 @@ There is a <b>ton</b> of professional demos produced by Tableau<br>
 
 
 # Beyond Tableau:<br>
-* Graphs (social networks, etc.)<br>
-* Real-time dashboards<br>
-* Machine-learning friendly graphs with <b>R</b><br>
-  The R programming language is a nice complement to displaying machine-learning<br>
-  There is a quick-start guide by Microsoft attached to this repo's top level<br>
+## Graphs (social networks, etc.)<br>
+* TBD with Gephi, GraphX or Titan
+## Real-time dashboards<br>
+* TBD with Kibana
+## Machine-learning friendly graphs with <b>R</b><br>
+* The R programming language is a nice complement to displaying machine-learning<br>
+* There is a quick-start guide by Microsoft attached to this repo's top level<br>
+* Animations with R: http://blog.revolutionanalytics.com/2016/06/visualizing-a-flood-with-r.html <br>
+
