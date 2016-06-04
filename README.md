@@ -14,9 +14,11 @@ There is a <b>ton</b> of professional demos produced by Tableau<br>
 
 # Beyond Tableau:<br>
 ## Graphs (social networks, etc.)<br>
-* TBD with Gephi, GraphX or Titan
+* TBD with Gephi, GraphX or Titan 
+
 ## Real-time dashboards<br>
 * TBD with Kibana
+
 ## Machine-learning friendly graphs with <b>R</b><br>
 * The R programming language is a nice complement to displaying machine-learning<br>
 * There is a quick-start guide by Microsoft attached to this repo's top level<br>
